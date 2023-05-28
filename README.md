@@ -4,7 +4,7 @@
 
 👀 I’m interested in QA and Medicine;
 
-🌱 I’m currently learning HTML, CSS and JS;
+🌱 I’m currently learning HTML, CSS, SQL, JS and GIT;
 
 📫 How to reach me:
   - email: mylenaetelvina@gmail.com
